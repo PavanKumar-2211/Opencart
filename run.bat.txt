@@ -1,0 +1,2 @@
+cd C:\Users\PAVAN 4288\eclipse-workspace\Java Latest 2026\Opencart
+mvn test
